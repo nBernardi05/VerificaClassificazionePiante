@@ -1,0 +1,9 @@
+bernardi\nicola\verificabernardi\model\Noleggio.class
+bernardi\nicola\verificabernardi\model\Veicolo.class
+bernardi\nicola\verificabernardi\model\Furgone.class
+bernardi\nicola\verificabernardi\App.class
+bernardi\nicola\verificabernardi\PrimaryController.class
+bernardi\nicola\verificabernardi\model\Autonoleggio.class
+bernardi\nicola\verificabernardi\SecondaryController.class
+bernardi\nicola\verificabernardi\model\Autovettura.class
+module-info.class
